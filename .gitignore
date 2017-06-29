@@ -39,8 +39,6 @@ pip-delete-this-directory.txt
 htmlcov/
 .tox/
 
-.project
-.pydevproject
 .coverage
 .coverage.*
 .cache
